@@ -38,3 +38,17 @@ This is a sample Progressive Web App (PWA) built with React for the front end, E
    ```bash
    git clone https://github.com/your-username/your-app-name.git
 
+## Usage
+
+1. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the React PWA.
+
+2. Fill out the form with the required information and submit it. The data will be processed by the backend.
+
+## Built With
+
+- [React](https://reactjs.org/) - Frontend library for building user interfaces.
+- [Express.js](https://expressjs.com/) - Backend web application framework for Node.js.
+- [Django](https://www.djangoproject.com/) - Web framework for Python.
+- [MongoDB](https://www.mongodb.com/) - NoSQL database for storing data.
+- [NLTK](https://www.nltk.org/) - Natural Language Toolkit for NLP comparisons.
+
